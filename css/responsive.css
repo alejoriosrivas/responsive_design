@@ -20,9 +20,9 @@
     .hamburger-menu {
         display: block;
     }
-    body {
+    /* body {
         border: 5px solid green;
-    }
+    } */
     .header {
         display: block;
         height: auto;
@@ -119,9 +119,9 @@
     }
 }
 @media screen and (max-width: 480px) {
-    body {
+    /* body {
         border: 5px solid blue;
-    }
+    } */
     .project-details {
         font-size: 12px;
     }
@@ -149,9 +149,9 @@
     }
 }
 @media screen and (max-width: 320px){
-    body {
+    /* body {
         border: 5px solid yellow;
-    }
+    } */
     .project-details {
         font-size: 12px;
     }
