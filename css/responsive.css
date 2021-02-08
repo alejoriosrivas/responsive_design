@@ -2,9 +2,9 @@
     .hamburger-menu {
         display: none;
     }
-    body {
+    /* body {
         border: 5px solid red;
-    }
+    } */
     .container h1 {
         margin-left: .5em;
         font-size: 1.8em;
